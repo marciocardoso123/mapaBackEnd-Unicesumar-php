@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(74, 249, 255);
+}
+.container img {
+    max-width:400px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+}
