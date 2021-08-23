@@ -8,11 +8,11 @@
 					<a href="pg3.php?p=contato"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Contato</button></a>
 					<a href="pg4.php?p=localiza"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Localização</button></a>
 					<a href="pg5.php?p=produto"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Produtos</button></a>
-					<a href="index.php?p=home"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">home</button></a>
+					<a href="../index.php?p=home"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">home</button></a>
 				</header>
 				<footer>
 				<div class="container">
-    				<img src="/200116555_marcioCardoso/images/bo7.jpeg" width="320" height="205" />
+    				<img src="/images/bo1.jpeg" width="320" height="205" />
 				</div>
 				
 </footer>

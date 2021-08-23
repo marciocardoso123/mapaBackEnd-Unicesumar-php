@@ -6,7 +6,7 @@
 </head>
 <body>
                 <header class="header">
-					<h1>Pagina Inícial de Bolos de Pote</h1>
+					<h1>Nossa História de Bolos de Pote</h1>
                     
 					<a href="pagina/pg2.php?p=quemSomos"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Quem Somos</button></a>
 					<a href="pagina/pg3.php?p=contato"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Contato</button></a>
